@@ -26,7 +26,7 @@ By the magnitude of the over voltage and the duration. (Typical value for 400 kV
 
 ### 6. What types of power plant exhibit mechanical resonance in the sub synchronous frequency range?
 
-All power plants that utilize multi-state/pressure-compounded turbines.
+All power plants that utilize multi-state/pressure-compounded turbines. 
 
 ### 7. What type of stability study is important for assessing the fault behaviour of synchronous generator?
 
