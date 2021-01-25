@@ -2,20 +2,8 @@
 
 - [Questions](#questions)
   - [Lecture 1-2](#lecture-1-2)
-    - [1. Why does generator operate at synchronous speed?](#1-why-does-generator-operate-at-synchronous-speed)
-    - [2. Why do we need voltage control?](#2-why-do-we-need-voltage-control)
-    - [3. Which of voltage and frequency control can be influenced by the network?](#3-which-of-voltage-and-frequency-control-can-be-influenced-by-the-network)
-    - [4. How does one characterise lightening strikes in transmission line?](#4-how-does-one-characterise-lightening-strikes-in-transmission-line)
-    - [5. How does one characterise switching transient in transmission system?](#5-how-does-one-characterise-switching-transient-in-transmission-system)
-    - [6. What types of power plant exhibit mechanical resonance in the sub synchronous frequency range?](#6-what-types-of-power-plant-exhibit-mechanical-resonance-in-the-sub-synchronous-frequency-range)
-    - [7. What type of stability study is important for assessing the fault behaviour of synchronous generator?](#7-what-type-of-stability-study-is-important-for-assessing-the-fault-behaviour-of-synchronous-generator)
-    - [8. What is of prime importance in small signal stability studies?](#8-what-is-of-prime-importance-in-small-signal-stability-studies)
   - [Lecture 3-4](#lecture-3-4)
-    - [1. What are the functionsof closed circuit rotor windings?](#1-what-are-the-functionsof-closed-circuit-rotor-windings)
-    - [2. Why should the synchronous reactance be so high (1.5 to 2.0 p.u.)?](#2-why-should-the-synchronous-reactance-be-so-high-15-to-20-pu)
-    - [3. Why should X/R ratio of a generator be so high?](#3-why-should-xr-ratio-of-a-generator-be-so-high)
-    - [4. Can the generator be operated at theoretical maximum power? Justify your answer](#4-can-the-generator-be-operated-at-theoretical-maximum-power-justify-your-answer)
-
+  
 ## Lecture 1-2
 
 Contributor: Hongyi, Chengqi
@@ -52,9 +40,11 @@ Trasient stability. Transient stability problem usually arises when the output p
 
 Dumping is a critical parameter in such studies.
 
-## Lecture 3-4
+# Lecture 3-4
 
 Contributor: Hongyi
+
+## Quesions
 
 ### 1. What are the functionsof closed circuit rotor windings?
 
@@ -72,4 +62,5 @@ The register of the circuit is designed to be as low as possible, since the cond
 
 ### 4. Can the generator be operated at theoretical maximum power? Justify your answer
 
-No. If the generator is operated at maximum power, i.e. $\delta =90\degree$, it is not stable. For example, if the mechanic torque increases, which will lead to the increase in $\delta$, the electrical power output is supposed to increase as well to keep the system stable. However, if it is operating at maximum output, the ouput power will decrease, which will lead to a further increase of $\delta$ and the lost of synchronization.
+No. If the generator is operated at maximum power, i.e. &delta; =90&deg;, it is not stable. For example, if the mechanic torque increases, which will lead to the increase in &delta;, the electrical power output is supposed to increase as well to keep the system stable. However, if it is operating at maximum output, the ouput power will decrease, which will lead to a further increase of &delta; and the lost of synchronization.
+
