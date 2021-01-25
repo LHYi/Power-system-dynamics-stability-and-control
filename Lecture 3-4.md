@@ -20,4 +20,4 @@ The register of the circuit is designed to be as low as possible, since the cond
 
 ### 4. Can the generator be operated at theoretical maximum power? Justify your answer
 
-No. If the generator is operated at maximum power, i.e. $\delta =90\degree$, it is not stable. For example, if the mechanic torque increases, which will lead to the increase in $\delta$, the electrical power output is supposed to increase as well to keep the system stable. However, if it is operating at maximum output, the ouput power will decrease, which will lead to a further increase of &delta and the lost of synchronization.
+No. If the generator is operated at maximum power, i.e. $\delta =90\degree$, it is not stable. For example, if the mechanic torque increases, which will lead to the increase in $\delta$, the electrical power output is supposed to increase as well to keep the system stable. However, if it is operating at maximum output, the ouput power will decrease, which will lead to a further increase of &delta; and the lost of synchronization.
