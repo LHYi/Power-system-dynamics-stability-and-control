@@ -84,3 +84,11 @@ You can also follow the steps in the 10 minutes Github guide to make your change
 - in [Chinese](https://zhuanlan.zhihu.com/p/109446026)
 
 - [Online editor](https://www.overleaf.com/)
+
+### HTML ampersand entity codes (to show math equations in Github Flavoured Markdown)
+
+- Common [math symbols](http://sites.psu.edu/symbolcodes/codehtml/#math)
+
+- [Greek letters](https://www.keynotesupport.com/internet/special-characters-greek-letters-symbols.shtml)
+
+For example, `&delta; = 90&deg;` gives you &delta; = 90&deg;
