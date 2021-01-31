@@ -6,11 +6,11 @@ Contributor: Hongyi
 
 ### 1. Why do you think that real power can be produced by salient pole machine even there is no excitation?
 
-It's due to the difference of the saliency, which leads to variable reluctance along the air gap. The amount of reluctance power may not be great but its main advantage lies in increasing the synchronising power and thereby improving the stability of the machine. It is worth noticing that the reluctance power changes the shape of P-&delta; curve. The maximum output power is higher and the slope in the steady operation area is larger, which implies that the stability of the generator in a transient process.
+It's due to the difference of the saliency, which leads to variable reluctance along the air gap. The amount of reluctance power may not be great, but its main advantage lies in increasing the synchronizing power and thereby improving the stability of the machine. It is worth noticing that the reluctance power changes the shape of P-&delta; curve. The maximum output power is higher and the slope in the steady operation area is larger, which implies that the stability of the generator in a transient process.
 
 ### 2. When do we use salient pole machines?
 
-For low speed machines (usually found in hydro grnerators).
+For low speed machines (usually found in hydro generators).
 
 ### 3. Why Xd is larger than Xq?
 
@@ -18,7 +18,7 @@ The air gap along the d-axis is smaller, which leads to smaller reluctance and l
 
 ### 4. Why do we use Blondel's two reaction theory?
 
-Because the air gap is not uniform so it cannot be modeled as a single reactance.
+Because the air gap is not uniform, so it cannot be modeled as a single reactance.
 
 ### 5. Is the reluctance power going to help with the stability or not?
 

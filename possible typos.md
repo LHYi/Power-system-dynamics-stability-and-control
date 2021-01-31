@@ -15,4 +15,4 @@ It should be <img src="https://render.githubusercontent.com/render/math?math=\sq
 ---
 The way to show latex equations in this page is from [here](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b).
 
-`<img src="https://render.githubusercontent.com/render/math?math=latex quation">`
+`<img src="https://render.githubusercontent.com/render/math?math=latex equation">`
