@@ -4,10 +4,13 @@
   - [Lecture 1-2](#lecture-1-2)
   - [Lecture 3-4](#lecture-3-4)
   - [Lecture 5-6](#lecture-5-6)
+  - [Typos](#typos)
   
-## Lecture 1-2
+# Lecture 1-2
 
 Contributor: Hongyi, Chengqi
+
+## Questions
 
 ### 1. Why does generator operate at synchronous speed?
 
@@ -21,11 +24,11 @@ Voltage control is essential to maintain the reactive power in the system within
 
 Voltage control. To control the frequency, it requires the injection of the active power, which is not possible by changing the network.
 
-### 4. How does one characterise lightening strikes in transmission line?
+### 4. How does one characterize lightening strikes in transmission line?
 
-The peak value (usually in kiloampere) and the duration (typical value 1.2/50 microseconds).
+The peak value (usually in kilo-ampere) and the duration (typical value 1.2/50 microseconds).
 
-### 5. How does one characterise switching transient in transmission system?
+### 5. How does one characterize switching transient in transmission system?
 
 By the magnitude of the over voltage and the duration. (Typical value for 400 kV system, 2 times the rated voltage and 200~2000 microseconds)
 
@@ -33,9 +36,9 @@ By the magnitude of the over voltage and the duration. (Typical value for 400 kV
 
 All power plants that utilize multi-state/pressure-compounded turbines.
 
-### 7. What type of stability study is important for assessing the fault behaviour of synchronous generator?
+### 7. What type of stability study is important for assessing the fault behavior of synchronous generator?
 
-Trasient stability. Transient stability problem usually arises when the output power of the generator drops, while subsynchronous resonance usually comes from network side, especially which is series compensated.
+Transient stability. Transient stability problem usually arises when the output power of the generator drops, while subsynchronous resonance usually comes from network side, especially which is series compensated.
 
 ### 8. What is of prime importance in small signal stability studies? 
 
@@ -45,11 +48,11 @@ Dumping is a critical parameter in such studies.
 
 Contributor: Hongyi
 
-## Quesions
+## Questions
 
-### 1. What are the functionsof closed circuit rotor windings?
+### 1. What are the functions of closed circuit rotor windings?
 
-In majority of the cases additional windings, known as damper winding, are included to produce damping effect. These windings are closed and their dissipative action produce damping to rotor oscillations.
+In the majority of the cases additional windings, known as damper winding, are included to produce damping effect. These windings are closed and their dissipative action produce damping to rotor oscillations.
 
 ### 2. Why should the synchronous reactance be so high (1.5 to 2.0 p.u.)?
 
@@ -61,9 +64,9 @@ The reactance is very high, due to the reasons stated in Q2.
 
 The register of the circuit is designed to be as low as possible, since the conductors are conducting thousands of amperes. In order to reduce the thermal loss, the resistance should be low, resulting in a high X/R ratio (typical value around 300).
 
-### 4. Can the generator be operated at theoretical maximum power? Justify your answer
+### 4. Can the generator be operated at theoretical maximum power? Justify your answer.
 
-No. If the generator is operated at maximum power, i.e. &delta; =90&deg;, it is not stable. For example, if the mechanic torque increases, which will lead to the increase in &delta;, the electrical power output is supposed to increase as well to keep the system stable. However, if it is operating at maximum output, the ouput power will decrease, which will lead to a further increase of &delta; and the lost of synchronization.
+No. If the generator is operated at maximum power, i.e. &delta; =90&deg;, it is not stable. For example, if the mechanic torque increases, which will lead to the increase in &delta;, the electrical power output is supposed to increase as well to keep the system stable. However, if it is operating at maximum output, the output power will decrease, which will lead to a further increase of &delta; and the lost of synchronization.
 
 # Lecture 5-6
 
@@ -73,11 +76,11 @@ Contributor: Hongyi
 
 ### 1. Why do you think that real power can be produced by salient pole machine even there is no excitation?
 
-It's due to the difference of the saliency, which leads to variable reluctance along the air gap. The amount of reluctance power may not be great but its main advantage lies in increasing the synchronising power and thereby improving the stability of the machine. It is worth noticing that the reluctance power changes the shape of P-&delta; curve. The maximum output power is higher and the slope in the steady operation area is larger, which implies that the stability of the generator in a transient process.
+It's due to the difference of the saliency, which leads to variable reluctance along the air gap. The amount of reluctance power may not be great, but its main advantage lies in increasing the synchronizing power and thereby improving the stability of the machine. It is worth noticing that the reluctance power changes the shape of P-&delta; curve. The maximum output power is higher and the slope in the steady operation area is larger, which implies that the stability of the generator in a transient process.
 
 ### 2. When do we use salient pole machines?
 
-For low speed machines (usually found in hydro grnerators).
+For low speed machines (usually found in hydro generators).
 
 ### 3. Why Xd is larger than Xq?
 
@@ -85,7 +88,7 @@ The air gap along the d-axis is smaller, which leads to smaller reluctance and l
 
 ### 4. Why do we use Blondel's two reaction theory?
 
-Because the air gap is not uniform so it cannot be modeled as a single reactance.
+Because the air gap is not uniform, so it cannot be modeled as a single reactance.
 
 ### 5. Is the reluctance power going to help with the stability or not?
 
@@ -93,3 +96,17 @@ It will help improve the stability. If the excitation is lost in both cylindrica
 
 ---
 Most of the answers above comes from Abduljalil and Cameron during the lecture.
+
+# Typos
+
+Contributor: Hongyi
+
+## Lecture Notes
+
+### 1. Page 9
+
+The mechanics of power generation should be <img src="https://render.githubusercontent.com/render/math?math=\Delta P_m=\left[ \frac{1-T_ws}{1%2B0.5T_ws} \right] \Delta G"> as shown in the lecture slides.
+
+### 2. Page 16
+
+It should be <img src="https://render.githubusercontent.com/render/math?math=\sqrt{3}V_LI_L=S=247.5 MVA, I_L=\frac{247.5}{\sqrt{3}\times15.75}=9072A"> instead of <img src="https://render.githubusercontent.com/render/math?math=\sqrt{3V_LI_L}=S=247.5 MVA, I_L=\frac{247.5}{\sqrt{3\times15.75}}=9072A">.
